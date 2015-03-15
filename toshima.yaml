@@ -1,0 +1,123 @@
+-
+  name: モスバーガー大塚北口店
+  address: 東京都豊島区北大塚2-27-1
+  weekday:
+    opening_time: "7:00"
+    closing_time: "25:30"
+  saturday:
+    opening_time: "7:00"
+    closing_time: "25:30"
+  sunday:
+    opening_time: "7:00"
+    closing_time: "24:00"
+  holidays: 
+  tags:
+    - cafe
+  description: 祝日は25:30までかも
+-
+  name: パスタハウス リコ （Pasta House Rico）
+  address: 東京都豊島区南大塚3-47-8 大塚赤尾ビル 1F
+  weekday:
+    opening_time: "11:30"
+    closing_time: "14:30"
+  saturday:
+    opening_time: "11:30"
+    closing_time: "14:30"
+  sunday:
+    opening_time: "11:30"
+    closing_time: "14:30"
+  holidays: 
+  tags:
+    - lunch
+  description: ディナー不定休
+-
+  name: ドトールコーヒーショップ 大塚南口店
+  address: 東京都豊島区南大塚3-53-5
+  weekday:
+    opening_time: "07:30"
+    closing_time: "21:00"
+  saturday:
+    opening_time: "07:30"
+    closing_time: "20:00"
+  sunday:
+    opening_time: "08:30"
+    closing_time: "19:00"
+  holidays: 
+  tags:
+    - cafe
+  description: 
+-
+  name: 日高屋 大塚南口店
+  address: 東京都豊島区南大塚2-46-3
+  weekday:
+    opening_time: "00:00"
+    closing_time: "24:00"
+  saturday:
+    opening_time: "00:00"
+    closing_time: "24:00"
+  sunday:
+    opening_time: "00:00"
+    closing_time: "24:00"
+  holidays: 
+  tags:
+    - 24hours
+  description: 
+-
+  name: 七福 弁天庵 大塚駅南店
+  address: 東京都豊島区南大塚3-52-6 六栄ビル １Ｆ
+  weekday:
+    opening_time: "07:00"
+    closing_time: "23:00"
+  saturday:
+    opening_time: "07:00"
+    closing_time: "23:00"
+  sunday:
+    opening_time: "07:00"
+    closing_time: "23:00"
+  holidays:
+  tags:
+    - lunch
+  description: 11:00-14:00は禁煙
+-
+  name: 洋食GOTOO
+  address: 東京都豊島区南大塚3-54-1
+  weekday:
+    opening_time: "11:00"
+    closing_time: "15:00"
+    opening_time2: "17:30"
+    closing_time2: "21:30"
+  saturday:
+    opening_time: "11:00"
+    closing_time: "15:00"
+    opening_time2: "17:30"
+    closing_time2: "21:30"
+  sunday:
+    opening_time: 
+    closing_time: 
+  holidays:
+    - sun
+    - holiday
+  tags:
+    - lunch
+  description: 
+-
+  name: 蔦や （つたや）
+  address: 東京都豊島区南大塚3-51-6
+  weekday:
+    opening_time: "11:00"
+    closing_time: "15:00"
+    opening_time2: "17:00"
+    closing_time2: "21:00"
+  saturday:
+    opening_time: "11:00"
+    closing_time: "15:00"
+    opening_time2: "17:00"
+    closing_time2: "21:00"
+  sunday:
+    opening_time: 
+    closing_time: 
+  holidays: 
+    - sun
+  tags:
+    - lunch
+  description: 
