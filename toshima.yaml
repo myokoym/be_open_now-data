@@ -1,15 +1,9 @@
 -
   name: モスバーガー大塚北口店
   address: 東京都豊島区北大塚2-27-1
-  weekday:
-    opening_time: "7:00"
-    closing_time: "25:30"
-  saturday:
-    opening_time: "7:00"
-    closing_time: "25:30"
-  sunday:
-    opening_time: "7:00"
-    closing_time: "24:00"
+  weekday: "7:00-25:30"
+  saturday: "7:00-25:30"
+  sunday: "7:00-24:00"
   holidays: 
   tags:
     - cafe
@@ -17,15 +11,9 @@
 -
   name: パスタハウス リコ （Pasta House Rico）
   address: 東京都豊島区南大塚3-47-8 大塚赤尾ビル 1F
-  weekday:
-    opening_time: "11:30"
-    closing_time: "14:30"
-  saturday:
-    opening_time: "11:30"
-    closing_time: "14:30"
-  sunday:
-    opening_time: "11:30"
-    closing_time: "14:30"
+  weekday: "11:30-14:30"
+  saturday: "11:30-14:30"
+  sunday: "11:30-14:30"
   holidays: 
   tags:
     - lunch
@@ -33,15 +21,9 @@
 -
   name: ドトールコーヒーショップ 大塚南口店
   address: 東京都豊島区南大塚3-53-5
-  weekday:
-    opening_time: "07:30"
-    closing_time: "21:00"
-  saturday:
-    opening_time: "07:30"
-    closing_time: "20:00"
-  sunday:
-    opening_time: "08:30"
-    closing_time: "19:00"
+  weekday: "07:30-21:00"
+  saturday: "07:30-20:00"
+  sunday: "08:30-19:00"
   holidays: 
   tags:
     - cafe
@@ -49,15 +31,9 @@
 -
   name: 日高屋 大塚南口店
   address: 東京都豊島区南大塚2-46-3
-  weekday:
-    opening_time: "00:00"
-    closing_time: "24:00"
-  saturday:
-    opening_time: "00:00"
-    closing_time: "24:00"
-  sunday:
-    opening_time: "00:00"
-    closing_time: "24:00"
+  weekday: "0:00-24:00"
+  saturday: "0:00-24:00"
+  sunday: "0:00-24:00"
   holidays: 
   tags:
     - 24hours
@@ -65,15 +41,9 @@
 -
   name: 七福 弁天庵 大塚駅南店
   address: 東京都豊島区南大塚3-52-6 六栄ビル １Ｆ
-  weekday:
-    opening_time: "11:00"
-    closing_time: "23:00"
-  saturday:
-    opening_time: "11:00"
-    closing_time: "21:00"
-  sunday:
-    opening_time: "11:00"
-    closing_time: "21:00"
+  weekday: "11:00-23:00"
+  saturday: "11:00-21:00"
+  sunday: "11:00-21:00"
   holidays:
   tags:
     - lunch
@@ -81,19 +51,9 @@
 -
   name: 洋食GOTOO
   address: 東京都豊島区南大塚3-54-1
-  weekday:
-    opening_time: "11:00"
-    closing_time: "15:00"
-    opening_time2: "17:30"
-    closing_time2: "21:30"
-  saturday:
-    opening_time: "11:00"
-    closing_time: "15:00"
-    opening_time2: "17:30"
-    closing_time2: "21:30"
+  weekday: "11:00-15:00, 17:30-21:30"
+  saturday: "11:00-15:00, 17:30-21:30"
   sunday:
-    opening_time: 
-    closing_time: 
   holidays:
     - sun
     - holiday
@@ -103,20 +63,10 @@
 -
   name: 蔦や （つたや）
   address: 東京都豊島区南大塚3-51-6
-  weekday:
-    opening_time: "11:00"
-    closing_time: "15:00"
-    opening_time2: "17:00"
-    closing_time2: "21:00"
-  saturday:
-    opening_time: "11:00"
-    closing_time: "15:00"
-    opening_time2: "17:00"
-    closing_time2: "21:00"
+  weekday: "11:00-15:00, 17:00-21:00"
+  saturday: "11:00-15:00, 17:00-21:00"
   sunday:
-    opening_time: 
-    closing_time: 
-  holidays: 
+  holidays:
     - sun
   tags:
     - lunch
