@@ -5,6 +5,7 @@
   saturday: "7:00-25:30"
   sunday: "7:00-24:00"
   holidays: 
+  url: "http://mos.jp/shop/detail/04066/"
   tags:
     - cafe
   description: 祝日は25:30までかも
@@ -15,6 +16,7 @@
   saturday: "11:30-14:30"
   sunday: "11:30-14:30"
   holidays: 
+  url: "http://tabelog.com/tokyo/A1323/A132302/13120452/"
   tags:
     - lunch
   description: ディナー不定休
@@ -25,6 +27,7 @@
   saturday: "07:30-20:00"
   sunday: "08:30-19:00"
   holidays: 
+  url: "http://www.doutor.co.jp/shopsearch/detail/01010741.html"
   tags:
     - cafe
   description: 
@@ -35,6 +38,7 @@
   saturday: "0:00-24:00"
   sunday: "0:00-24:00"
   holidays: 
+  url: "http://hidakaya.hiday.co.jp/shop/page297.html"
   tags:
     - 24hours
   description: 
@@ -45,6 +49,7 @@
   saturday: "11:00-21:00"
   sunday: "11:00-21:00"
   holidays:
+  url: "http://lbs.mapion.co.jp/map/uc/PoiInfo?grp=sevenandi_fs&poi_code=061893&vo=mbml&br=06&myshop=&opt="
   tags:
     - lunch
   description: 11:00-14:00は禁煙
@@ -57,6 +62,7 @@
   holidays:
     - sun
     - holiday
+  url: "http://www.k4.dion.ne.jp/~gotoo/gotoo.html"
   tags:
     - lunch
   description: 
@@ -68,6 +74,7 @@
   sunday:
   holidays:
     - sun
+  url: "http://tabelog.com/tokyo/A1323/A132302/13133360/"
   tags:
     - lunch
   description: 
