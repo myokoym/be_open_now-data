@@ -66,14 +66,14 @@
   name: 七福 弁天庵 大塚駅南店
   address: 東京都豊島区南大塚3-52-6 六栄ビル １Ｆ
   weekday:
-    opening_time: "07:00"
+    opening_time: "11:00"
     closing_time: "23:00"
   saturday:
-    opening_time: "07:00"
-    closing_time: "23:00"
+    opening_time: "11:00"
+    closing_time: "21:00"
   sunday:
-    opening_time: "07:00"
-    closing_time: "23:00"
+    opening_time: "11:00"
+    closing_time: "21:00"
   holidays:
   tags:
     - lunch
