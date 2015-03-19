@@ -6,6 +6,8 @@
   sunday: "7:00-24:00"
   holidays: 
   url: "http://mos.jp/shop/detail/04066/"
+  lat: 35.7323425
+  lng: 139.7299454
   tags:
     - cafe
   description: 祝日は25:30までかも
@@ -17,6 +19,8 @@
   sunday: "11:30-14:30"
   holidays: 
   url: "http://tabelog.com/tokyo/A1323/A132302/13120452/"
+  lat: 35.7299453
+  lng: 139.7280115
   tags:
     - lunch
   description: ディナー不定休
@@ -28,6 +32,8 @@
   sunday: "08:30-19:00"
   holidays: 
   url: "http://www.doutor.co.jp/shopsearch/detail/01010741.html"
+  lat: 35.7305038
+  lng: 139.7284233
   tags:
     - cafe
   description: 
@@ -39,6 +45,8 @@
   sunday: "0:00-24:00"
   holidays: 
   url: "http://hidakaya.hiday.co.jp/shop/page297.html"
+  lat: 35.731176
+  lng: 139.7295343
   tags:
     - 24hours
   description: 
@@ -50,6 +58,8 @@
   sunday: "11:00-21:00"
   holidays:
   url: "http://lbs.mapion.co.jp/map/uc/PoiInfo?grp=sevenandi_fs&poi_code=061893&vo=mbml&br=06&myshop=&opt="
+  lat: 35.7302741
+  lng: 139.7285403
   tags:
     - lunch
   description: 11:00-14:00は禁煙
@@ -63,6 +73,8 @@
     - sun
     - holiday
   url: "http://www.k4.dion.ne.jp/~gotoo/gotoo.html"
+  lat: 35.7305149
+  lng: 139.728165
   tags:
     - lunch
   description: 
@@ -75,6 +87,8 @@
   holidays:
     - sun
   url: "http://tabelog.com/tokyo/A1323/A132302/13133360/"
+  lat: 35.7300261
+  lng: 139.7284372
   tags:
     - lunch
   description: 
